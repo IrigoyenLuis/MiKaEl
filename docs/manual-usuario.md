@@ -611,7 +611,7 @@ Al utilizar MiKaEl aceptas los siguientes términos y condiciones de uso.
   
 - Se recomienda usar únicamente contenido confiable y mantener respaldos de información importante.
 
-MiKaEl es una herramienta pensada para ayudarte a aprender y practicar, pero el uso que hagas de ella y sus consecuencias dependen siempre de ti.
+MiKaEl es una herramienta pensada para ayudarte a practicar y aprender, pero el uso que hagas de ella y sus consecuencias dependen siempre de ti.
 
 ---
 ## 18. Licencia y derechos de autor
@@ -634,7 +634,7 @@ Esto significa que:
 
 ### Contenido creado por el usuario
 
-- El contenido que crees dentro de MiKaEl (preguntas, exámenes, imágenes, audios, textos) es responsabilidad de quien lo crea, usa y/o importa.
+- El contenido que crees dentro de MiKaEl (preguntas, exámenes, imágenes, audios, textos) es tu responsabilidad así como de quien lo usa, exporta y/o importa.
   
 - MiKaEl no reclama derechos sobre el contenido generado por los usuarios.
   
