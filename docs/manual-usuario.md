@@ -1,25 +1,32 @@
 # MiKaEl — Manual de Usuario
+
 ## Índice
-1. Introducción
-2. ¿Qué es MiKaEl?
-3. Requisitos del sistema
-4. Instalación y primer inicio
-5. Pantalla principal
-6. Simulador de exámenes
-7. Tipos de reactivo soportados
-8. Uso de imágenes en reactivos
-9. Uso de audio
-10. Editor de exámenes
-11. Importar y exportar exámenes
-12. Importar preguntas con IA
-13. Tarjetas de estudio (Flashcards)
-14. Resultados y retroalimentación
-15. Organización de carpetas y archivos
-16. Recomendaciones de uso
-17. Términos y Condiciones de Uso
-18. Licencia y derechos de autor
+
+<p align="left">
+  <img src="images/MiKaEl_logo.jpeg" height="200">
+</p>
+
+1. [Introducción](#1-introducción)
+2. [¿Qué es MiKaEl?](#2-qué-es-mikael)
+3. [Requisitos del sistema](#3-requisitos-del-sistema)
+4. [Instalación y primer inicio](#4-instalación-y-primer-inicio)
+5. [Pantalla principal](#5-pantalla-principal)
+6. [Simulador de exámenes](#6-simulador-de-exámenes)
+7. [Tipos de reactivo soportados](#7-tipos-de-reactivo-soportados)
+8. [Uso de imágenes en reactivos](#8-uso-de-imágenes-en-reactivos)
+9. [Uso de audio](#9-uso-de-audio)
+10. [Editor de exámenes](#10-editor-de-exámenes)
+11. [Importar y exportar exámenes](#11-importar-y-exportar-exámenes)
+12. [Importar preguntas con IA](#12-importar-preguntas-con-ia)
+13. [Tarjetas de estudio)](#13-tarjetas-de-estudio)
+14. [Resultados y retroalimentación](#14-resultados-y-retroalimentación)
+15. [Organización de carpetas y archivos](#15-organización-de-carpetas-y-archivos)
+16. [Recomendaciones de uso](#16-recomendaciones-de-uso)
+17. [Términos y Condiciones de Uso](#17-términos-y-condiciones-de-uso)
+18. [Licencia y derechos de autor](#18-licencia-y-derechos-de-autor)
 ---
 ## 1. Introducción
+
 <p align="center">
   <img src="images/mikael_logo_ext.jpeg" alt="logo de MiKaEl" height="200">
 </p>
@@ -137,7 +144,7 @@ Aquí puedes poner a prueba tus conocimientos y practicar como si estuvieras en 
 
 - Ver imágenes o escuchar audios si el reactivo lo incluye.
 
-<p align="center">
+<p align="left">
   <img src="images/simulador_menu2.jpeg" width="300">
 </p>
 
@@ -152,7 +159,7 @@ Este archivo se utiliza para:
   
 - Aclarar el objetivo o la dinámica del ejercicio.
 
-<p align="center">
+<p align="left">
   <img src="images/simulador_intro.jpeg" width="300">
 </p>
 
@@ -166,7 +173,7 @@ Este archivo se utiliza para:
   
 - Puedes cambiar de respuesta antes de continuar.
   
-<p align="center">
+<p align="left">
     <img src="images/ReactivosKanji2.jpeg" width="300">
     <img src="images/simulador_multiple.jpeg" width="300">  
 </p>
@@ -181,7 +188,7 @@ Este archivo se utiliza para:
 
 El simulador está pensado para practicar, aprender de los errores y ganar confianza antes de una evaluación real.
 
-<p align="center">
+<p align="left">
     <img src="images/simulador_resultados.jpeg" width="300">
     <img src="images/simulador_resultados2.jpeg" width="300">
 </p>
