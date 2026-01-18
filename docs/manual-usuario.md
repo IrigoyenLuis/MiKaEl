@@ -144,7 +144,7 @@ Aquí puedes poner a prueba tus conocimientos y practicar como si estuvieras en 
 
 - Ver imágenes o escuchar audios si el reactivo lo incluye.
 
-<p align="left">
+<p align="center">
   <img src="images/simulador_menu2.jpeg" width="300">
 </p>
 
@@ -159,7 +159,7 @@ Este archivo se utiliza para:
   
 - Aclarar el objetivo o la dinámica del ejercicio.
 
-<p align="left">
+<p align="center">
   <img src="images/simulador_intro.jpeg" width="300">
 </p>
 
@@ -173,7 +173,7 @@ Este archivo se utiliza para:
   
 - Puedes cambiar de respuesta antes de continuar.
   
-<p align="left">
+<p align="center">
     <img src="images/ReactivosKanji2.jpeg" width="300">
     <img src="images/simulador_multiple.jpeg" width="300">  
 </p>
@@ -188,7 +188,7 @@ Este archivo se utiliza para:
 
 El simulador está pensado para practicar, aprender de los errores y ganar confianza antes de una evaluación real.
 
-<p align="left">
+<p align="center">
     <img src="images/simulador_resultados.jpeg" width="300">
     <img src="images/simulador_resultados2.jpeg" width="300">
 </p>
