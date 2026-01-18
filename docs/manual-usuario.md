@@ -517,12 +517,12 @@ MiKaEl utiliza carpetas para organizar los exámenes y sus recursos de forma ord
 Al iniciar la aplicación por primera vez, MiKaEl te pide seleccionar una carpeta principal.  
 Dentro de esta carpeta se guardará todo el contenido de la aplicación.
 
-DEntro de la carpeta principal cada examen se guarda en su propia carpeta, donde se almacenan:
+Dentro de la carpeta principal cada examen se guarda en su propia carpeta, donde se almacenan:
 
 - La información del examen.
   
 - Los reactivos
-- 
+
 - Las imágenes asociadas.
   
 - Los archivos de audio, si existen.
@@ -579,13 +579,21 @@ Usarla de forma regular y consciente te ayudará a mejorar con el tiempo.
 
 Al utilizar MiKaEl aceptas los siguientes términos y condiciones de uso.
 
+### Uso educativo y consecuencias
+
+- MiKaEl es una herramienta de apoyo para el estudio y la práctica.
+  
+- No garantiza resultados académicos, certificaciones aprobadas ni evaluaciones exitosas.
+  
+- El uso de la aplicación en contextos académicos, laborales o institucionales es responsabilidad del usuario.
+
 ### Responsabilidad del contenido
 
-- Todo el contenido que crees, edites, importes o utilices dentro de MiKaEl es **tu responsabilidad**.
+- Todo el contenido que creas, editas, importas o utilizas dentro de MiKaEl es **tu responsabilidad**.
   
 - La autoría de las preguntas, respuestas, imágenes, audios y textos siempre pertenece al usuario que los crea o importa.
   
-- MiKaEl no revisa, valida ni garantiza la corrección, legalidad o calidad del contenido utilizado.
+- MiKaEl no revisa, valida ni garantiza la corrección, legalidad o calidad del contenido utilizado par el usuario.
 
 ### Uso de exámenes importados o descargados
 
@@ -594,14 +602,6 @@ Al utilizar MiKaEl aceptas los siguientes términos y condiciones de uso.
 - MiKaEl no se hace responsable del origen, intención o consecuencias del contenido importado.
   
 - El uso de exámenes descargados es bajo tu propio criterio y responsabilidad.
-
-### Uso educativo y consecuencias
-
-- MiKaEl es una herramienta de apoyo para el estudio y la práctica.
-  
-- No garantiza resultados académicos, certificaciones aprobadas ni evaluaciones exitosas.
-  
-- El uso de la aplicación en contextos académicos, laborales o institucionales es responsabilidad del usuario.
 
 ### Seguridad y uso indebido
 
