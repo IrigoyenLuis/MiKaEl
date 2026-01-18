@@ -3,7 +3,7 @@
 ## Índice
 
 <p align="center">
-  <img src="images/MiKaEl_logo.jpeg" height="300">
+  <img src="images/MiKaEl_logo.jpeg" height="150">
 </p>
 
 1. [Introducción](#1-introducción)
