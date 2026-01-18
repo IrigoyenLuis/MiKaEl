@@ -2,8 +2,8 @@
 
 ## Índice
 
-<p align="left">
-  <img src="images/MiKaEl_logo.jpeg" height="200">
+<p align="center">
+  <img src="images/MiKaEl_logo.jpeg" height="300">
 </p>
 
 1. [Introducción](#1-introducción)
